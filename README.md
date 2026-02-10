@@ -48,6 +48,6 @@ These scripts train the respective models at different forecast horizons using O
 - See `requirements.txt` for full dependencies and package versions
 
 ## 👩‍💻 Author
-Cara Waters, 2026
-Queen Mary University of London
-For questions, contact: c.waters@qmul.ac.uk
+Cara Waters, 2026 \
+Queen Mary University of London \
+For questions, contact: c.waters@qmul.ac.uk \

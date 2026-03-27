@@ -1,5 +1,7 @@
 # Turbulence AE Index Forecasting
 
+![image](https://zenodo.org/badge/DOI/10.5281/zenodo.19259477.svg)
+
 This repository contains scripts to construct and train multiple XGBoost models to forecast AE index at Earth 🌍 given OMNI data measured at L1.
 
 ## 🔧 Installation
